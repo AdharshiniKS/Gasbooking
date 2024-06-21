@@ -1,0 +1,2 @@
+SELECT signup.name AS SignupName, signup.email AS SignupEmail, signup.address, signup.newpassword, booking.custid, booking.cylinder, booking.date, booking.time
+FROM signup INNER JOIN booking ON signup.email = booking.email AND signup.name = booking.name;
