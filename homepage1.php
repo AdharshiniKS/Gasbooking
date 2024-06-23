@@ -152,7 +152,7 @@
                         <span class="symbol">📄</span> Noida, 9th April, 2023
                     </div>
                     <div class="card-body">
-                        <p>GAIL Gas Limited is steering its pricing mechanism in line with the Government of India's guideline to pass on new domestic gas pricing benefits to its customers and has announced a substantial reduction in prices with effect from 9th April 2023.</p>
+                        <p>Indo Gas Limited is steering its pricing mechanism in line with the Government of India's guideline to pass on new domestic gas pricing benefits to its customers and has announced a substantial reduction in prices with effect from 9th April 2023.</p>
                         <p class="interesting-facts">Interesting Fact: This price reduction impacts over 10 million households, providing significant cost savings.</p>
                     </div>
                 </div>
@@ -163,7 +163,7 @@
                         <span class="symbol">💡</span> GAIL Gas Limited
                     </div>
                     <div class="card-body">
-                        <p>GAIL Gas Limited has announced a reduction in its Domestic PNG prices by Rs. 7 per SCM in Bengaluru and Dakshin Kannada and Rs. 6 per SCM in all its other Geographical areas.</p><br><br>
+                        <p>Indo Gas Limited has announced a reduction in its Domestic PNG prices by Rs. 7 per SCM in Bengaluru and Dakshin Kannada and Rs. 6 per SCM in all its other Geographical areas.</p><br><br>
                         <p class="interesting-facts">Interesting Fact: The reduction is a result of increased efficiency in gas sourcing and distribution.</p>
                     </div>
                 </div>
